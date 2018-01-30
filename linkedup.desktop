@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=0.1
+Type=Application
+Terminal=false
+Name=LinkedUp
+#Exec=/opt/usr/bin/linkedup
+Exec=/opt/linkedup/linkedup.sh
+Icon=linkedup
+X-Window-Icon=linkedup
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
